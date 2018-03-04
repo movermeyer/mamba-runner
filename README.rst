@@ -1,10 +1,10 @@
 mamba-runner
 ============
 
-.. image:: https://pypip.in/version/mamba-runner/badge.png
+.. image:: https://img.shields.io/pypi/v/mamba-runner.svg
   :target: https://pypi.python.org/pypi/mamba-runner/
 
-.. image:: https://pypip.in/download/mamba-runner/badge.png
+.. image:: https://img.shields.io/pypi/dm/mamba-runner.svg
   :target: https://pypi.python.org/pypi/mamba-runner/
 
 How fast are your unittest tests? Time it and make it faster!
